@@ -32,3 +32,5 @@ _курсив_
 this is code now
 
 ```
+
+[link](https://ya.ru)
